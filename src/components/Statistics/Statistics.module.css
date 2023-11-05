@@ -1,0 +1,21 @@
+.statisticsContainer {
+  padding-top: 20px;
+}
+.statisticsList {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+span {
+  display: inline-block;
+  font-size: 18px;
+  font-weight: 600;
+  font-style: italic;
+}
+li {
+  font-style: italic;
+  display: flex;
+  flex-direction: row;
+  gap: 6px;
+}
